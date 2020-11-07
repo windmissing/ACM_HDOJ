@@ -19,4 +19,4 @@ after_script:
 
 branchs:
   only:
-    master
+    main
