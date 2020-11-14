@@ -40,6 +40,7 @@
 * [2433 Travel BFS求最短路径树+优化](2433.md)
 * [2438 三分查找](2011-12-28-hdoj-2348-sanfen-search.md)
 * [2451 Simple Addition Expression](2451.md)
+* [2473 Junk-Mail Filter 并查集的删除](2473.md)
 * [2509 Be the Winner 博弈](2509.md)
 * [2544 用矩阵实现的Dijkstra](2544.md)
 * [2818 Building Block 并查集](2818.md)
