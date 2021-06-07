@@ -1,4 +1,3 @@
-```c++
 //hdu1134大数+catalan数
 #include<iostream> 
 #include<string> 
@@ -178,4 +177,3 @@ int main()
     }
     return 0;
 }
-```

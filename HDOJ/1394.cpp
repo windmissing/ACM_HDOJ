@@ -1,4 +1,3 @@
-```c++
 #include <iostream>
 using namespace std;
 #define MAX 50005
@@ -30,4 +29,3 @@ int main()
     }
     return 0;
 }
-```
