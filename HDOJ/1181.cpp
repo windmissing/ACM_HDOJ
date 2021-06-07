@@ -1,5 +1,3 @@
-```c++
-
 //1181floyd传递包
 #include <iostream>
 using namespace std;
@@ -48,4 +46,3 @@ int main()
 	}
     return 0;
 }
-```
