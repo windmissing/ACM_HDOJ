@@ -1,3 +1,7 @@
+/*
+用指针传递字典树，时空效率更高  
+用字符串代替字符数组，更方便  
+*/
 #include <iostream>
 #include <string>
 #include <algorithm>
